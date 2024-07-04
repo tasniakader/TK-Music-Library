@@ -5,7 +5,7 @@ This project utilizes SQL, Visual Studio 2022, and the C# programming language t
 
 ## Acknowledgments
 
-Special thanks to Professor Barsoum for his support.
+Special thanks to Professor Barsoum for his support and invaluable insights. 
 
 
 ## Contact
