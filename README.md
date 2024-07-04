@@ -1,6 +1,6 @@
 # TK Digital Music Library
 
-This project utilizes SQL, Visual Studio 2022, and the C# programming language to maintain a digital music library. The "Project Documentation.pdf" file details the features of this program and includes a user manual.
+This project utilizes SQL, Visual Studio 2022, and the C# programming language to maintain a digital music library. The "Project Documentation.pdf" file details the program's features and includes a user manual.
 
 
 ## Acknowledgments
