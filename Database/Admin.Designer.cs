@@ -1593,7 +1593,7 @@ namespace Database
             // 
             // sqlConnection1
             // 
-            this.sqlConnection1.ConnectionString = "Data Source=LAPTOP-E031DC8S\\SQLEXPRESS;Initial Catalog=DigitalMusicLibraryTK;Inte" +
+            this.sqlConnection1.ConnectionString = "Data Source=SERVER_NAME\\INSTANCE_NAME;Initial Catalog=DATABASE_NAME;Inte" +
     "grated Security=True";
             this.sqlConnection1.FireInfoMessageEventOnUserErrors = false;
             // 
