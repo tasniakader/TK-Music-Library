@@ -21,7 +21,7 @@ namespace Database
         public Admin()
         {
             InitializeComponent();
-            sqlConnection1 = new SqlConnection("Data Source=LAPTOP-E031DC8S\\SQLEXPRESS;Initial Catalog=DigitalMusicLibraryTK;Integrated Security=True");
+            sqlConnection1 = new SqlConnection("Data Source=SERVER_NAME\\INSTANCE_NAME;Initial Catalog=DATABASE_NAME;Integrated Security=True");
             sqlConnection1.Open();
         }
 
